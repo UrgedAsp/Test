@@ -1,0 +1,7 @@
+{
+  "name": "I<3U",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
